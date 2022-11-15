@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practica2_TAET_5.0", "Practica2_TAET_5.0\Practica2_TAET_5.0.csproj", "{633A2CDA-1CD0-4999-AA7E-33B15BE97927}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{633A2CDA-1CD0-4999-AA7E-33B15BE97927}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{633A2CDA-1CD0-4999-AA7E-33B15BE97927}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{633A2CDA-1CD0-4999-AA7E-33B15BE97927}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{633A2CDA-1CD0-4999-AA7E-33B15BE97927}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6F53ECB2-2A95-479A-8A6E-89812C5727E2}
+	EndGlobalSection
+EndGlobal
